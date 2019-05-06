@@ -9,28 +9,24 @@ ZooGameR
 
 Entra al servidor y disfruta las modalidades que te traen para ti. "mc.comugamers.com"
 ```markdown
-Syntax highlighted code block
+Codigo publico
 
 # Ella
 ## No te
 ### Quiere c:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+1. ZooComu
+2. ComuZoo
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](www.comugamers.com) and ![Image](src)
+[Link](www.comugamers.com)
 ```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZooGameR/ZooGameR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site (https://github.com/ZooGameR/ZooGameR.github.io/settings).
 
 ### Support or Contact
 
-Para contacto en Discord: ZooGameR#7963
+Discord: ZooGameR#7963
 Correo: ZooGameR.staff@gmail.com
